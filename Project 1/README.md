@@ -3,4 +3,4 @@
 Ini adalah hasil tugas tentang login page UVICS dengan menggunakan HTML dan CSS
 
 Tugas dibuat oleh:
-Nazarya, Clio, dan Timothy
+Nazar, Clio, dan Timothy
